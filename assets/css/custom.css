@@ -45,10 +45,10 @@ html,
 body {
     height: 100%;
     background-color: #ffffff;
-    font-family: 'Source-Code-Pro', monospace;
+    font-family: 'Source-Sans-Pro', Sans-serif;
     line-height: 1.6;
 }
-
+    
 body {
     color: rgba(0, 0, 0, 0.8);
     font-size: 18px;
